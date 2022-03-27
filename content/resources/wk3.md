@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: 'Week 3: The Urban Housing Market, Structures and Density'
 uid: 424460ae-7c2d-68a8-aa5a-fdc7621bc041

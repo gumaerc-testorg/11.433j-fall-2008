@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 8b113727-f7ea-1b88-6760-150fb45fc693
 resourcetype: Other
 title: Data Files
 uid: 5b3b31c1-9ba3-5205-089b-32474b1bd9f5

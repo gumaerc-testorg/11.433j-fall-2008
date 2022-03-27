@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: 'Week 2: The Urban Land Market, location, rents, prices'
 uid: bf94dae0-97ca-965f-ef27-1c6464cc7357

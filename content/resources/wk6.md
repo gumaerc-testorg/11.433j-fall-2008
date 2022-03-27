@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: a714fff7-4f46-c81c-fd24-474282e6cac5
 resourcetype: Document
 title: 'Week 6: Retail Location and Market Competition'
 uid: 36a2a4f6-6888-d15b-f57f-60f4a0d7bfbd
