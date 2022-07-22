@@ -7,6 +7,7 @@ file: /courses/11-433j-real-estate-economics-fall-2008/aa18f4e97da81718a0cb443d8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ uid: aa18f4e9-7da8-1718-a0cb-443d82065c59
 ---
 Lecture presentation on employment decentralization, edge cities, local agglomeration, clustering, transportation infrastructure, planning, and
 other limits to sprawl.
-
