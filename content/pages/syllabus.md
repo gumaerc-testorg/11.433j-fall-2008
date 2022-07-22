@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course, information
+  on course meeting times, and an outline of course activities.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: bc5e5bb2-0879-bcc0-b0aa-8df251b30e4f
 ---
@@ -20,7 +24,7 @@ There are two types of course materials. First, there will be 12 lecture note fi
 
 DiPasquale, Denise, and William Wheaton. _Urban Economics and Real Estate Markets_. Upper Saddle River, NJ: Prentice Hall, 1995. ISBN: 9780132252447.
 
-The lecture files will enable students to cover the material without purchase of the text. Second, there is a set of journal articles that are required reading; see the [readings]({{< baseurl >}}/pages/readings) section.
+The lecture files will enable students to cover the material without purchase of the text. Second, there is a set of journal articles that are required reading; see the {{% resource_link 795e7d98-bb39-3a05-58d0-c61b5faf496b "readings" %}} section.
 
 Course Outline
 --------------
