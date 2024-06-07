@@ -4,6 +4,7 @@ description: Lecture presentation on firm site selection and industrial land use
   households, historic sites, changes in technology and transportation., and modern
   industrial location.
 file: /courses/11-433j-real-estate-economics-fall-2008/1ff7cd6ef2b7f9680c81a32692f950ae_wk4.pdf
+file_size: 569189
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
