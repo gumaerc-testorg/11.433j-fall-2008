@@ -3,6 +3,7 @@ content_type: resource
 description: Supporting file containing spreadsheet data for an assignment on time
   series analysis of Atlanta's apartment market.
 file: /courses/11-433j-real-estate-economics-fall-2008/f08864c09034bcca15f5b2b93f91304c_ATLANT_08q3.xls
+file_size: 28672
 file_type: application/msword
 learning_resource_types:
 - Assignments

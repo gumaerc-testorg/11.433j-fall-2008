@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on residential land markets, the urban land market,
   location, rents, prices, and land use.
 file: /courses/11-433j-real-estate-economics-fall-2008/bf94dae097ca965fef271c6464cc7357_wk2.pdf
+file_size: 260210
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
