@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on retail development, retail location, and market
   competition, classical theory, no-classical theory, and simulating and forecasting
   shopping center demand.
-file: /courses/11-433j-real-estate-economics-fall-2008/36a2a4f66888d15bf57f60f4a0d7bfbd_wk6.pdf
+file: /ol-ocw-studio-app/courses/11-433j-real-estate-economics-fall-2008/36a2a4f66888d15bf57f60f4a0d7bfbd_wk6.pdf
 file_size: 417834
 file_type: application/pdf
 learning_resource_types:
