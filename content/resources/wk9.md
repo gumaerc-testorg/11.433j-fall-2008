@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on housing markets, macro analysis of housing, demand,
   and supply.
-file: /ol-ocw-studio-app/courses/11-433j-real-estate-economics-fall-2008/cf80634d3d163eadf989c8fb1dfdbe01_wk9.pdf
+file: /courses/11-433j-real-estate-economics-fall-2008/cf80634d3d163eadf989c8fb1dfdbe01_wk9.pdf
 file_size: 548334
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on residential development, the urban housing market,
   structures, and density.
-file: /ol-ocw-studio-app/courses/11-433j-real-estate-economics-fall-2008/424460ae7c2d68a8aa5afdc7621bc041_wk3.pdf
+file: /courses/11-433j-real-estate-economics-fall-2008/424460ae7c2d68a8aa5afdc7621bc041_wk3.pdf
 file_size: 339488
 file_type: application/pdf
 learning_resource_types:
